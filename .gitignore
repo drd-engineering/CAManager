@@ -1,0 +1,5 @@
+*/.env.localhost
+*/.env.production
+*/.env.staging
+
+cover.out
